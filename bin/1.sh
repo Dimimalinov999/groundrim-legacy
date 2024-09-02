@@ -1,3 +1,4 @@
+echo '1' > ./.save/.main.save
 clear
 echo 'They fought hard, but not hard enough, the Groundrim universe has been destroyed! They had to find a way out of it...'
 echo

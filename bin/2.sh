@@ -1,3 +1,4 @@
+echo '2' > ./.save/.main.save 
 clear
 echo 'They decided to take the easy route to earth, but how...'
 echo '1. Use a time machine'
