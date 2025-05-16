@@ -8,3 +8,5 @@ If you have the most basic knowledge of linux you whould know how to run it:
 chmod +x ./groundrim.sh
 bash ./groundrim.sh
 ```
+## Benefits of a bash game
+I know, i know, bash is as slow as python with a bad syntax, but atleast this game is cross platform
