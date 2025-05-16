@@ -1,4 +1,4 @@
-# Groundrim
+# Groundrim (Legacy)
 Quick bash game i ported from my old windows batch project, **but it's still not complete!**
 ## Building
 Since this is written in bash, you can't really build it
